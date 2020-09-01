@@ -25,8 +25,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
   flexible et réutilisable
 
 ### Rules
-   *  Libre à vous du look final, mais un exemple de ce qui est attendu se trouve dans
-    /public/exemple.mp4
+  * Le design final doit être similaire à l'example fournis "/public/exemple.mp4"
   * Le code doit être clair et de vous
   * Le data qui doit être contenu dans le popover est dans la variable DATA
   * L'ajout de tests est fortement conseillé
