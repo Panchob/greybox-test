@@ -23,7 +23,7 @@ function App() {
             Libre à vous du look final, mais un exemple de ce qui est attendu se trouve dans
             /public/exemple.mp4
           </li>
-          <li>Le code doit être clair et de vous</li>
+          <li>Le code doit être clair et fondamentalement réutilisable, donc pourrait avoir different look...</li>
           <li>Le data qui doit être contenu dans le popover est dans la variable DATA</li>
           <li>L'ajout de tests est fortement conseillé</li>
         </ul>
